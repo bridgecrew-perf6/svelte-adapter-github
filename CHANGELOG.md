@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing to see here
 
-## [v0.0.0-next]
+## [v0.0.1-next.0]
 
 ### Added
 
@@ -21,5 +21,5 @@ Nothing to see here
 
 - default `pages` adapter option, from `build` to `docs`. This matches the GitHub Pages alternative folder, `/docs`, that you'll likely be using to source your site's files.
 
-[Unreleased]: https://github.com/malynium/svelte-adapter-github/compare/v0.0.0-next...HEAD
-[v0.0.0-next]: https://github.com/malynium/svelte-adapter-github/releases/tag/v0.0.0-next
+[Unreleased]: https://github.com/malynium/svelte-adapter-github/compare/v0.0.1-next.0...HEAD
+[v0.0.1-next.0]: https://github.com/malynium/svelte-adapter-github/releases/tag/v0.0.1-next.0
