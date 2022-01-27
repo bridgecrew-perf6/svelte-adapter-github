@@ -43,7 +43,7 @@ If you're using a custom domain on GitHub pages, include it here as type string.
 
 ### jekyll
 
-GitHub Pages defaults to using jekyll to build your site's files. However, this isn't generally needed when deploying a static svelte site. So, by default, we create an empy `.nojekyll` file in your build directory. If you need the jekyll build step, set this option to `true`.
+GitHub Pages defaults to using jekyll to build your site's files. However, this isn't generally needed when deploying a static svelte site. So, by default, we create an empy `.nojekyll` file in your build directory. If you need the jekyll build step, set this option to `true` and read the [GitHub Pages](#github-pages) section.
 
 ### fallback
 
