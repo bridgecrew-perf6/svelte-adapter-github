@@ -63,7 +63,7 @@ The fallback page is a blank HTML page that loads your SvelteKit app and navigat
 
 ```js
 // svelte.config.js
-import adapter from '@sveltejs/adapter-static';
+import adapter from 'svelte-adapter-github';
 
 export default {
 	kit: {
